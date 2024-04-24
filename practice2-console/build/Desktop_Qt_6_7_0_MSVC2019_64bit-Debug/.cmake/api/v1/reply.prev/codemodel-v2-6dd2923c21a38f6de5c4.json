@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5c39d98e750d667d6e6c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "practice2-console",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "practice2-console::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice2-console-Debug-935cfe33d157af9c1a15.json",
+					"name" : "practice2-console",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice2-console_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice2-console_autogen-Debug-ab534383fb5412adffd9.json",
+					"name" : "practice2-console_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice2-console_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice2-console_autogen_timestamp_deps-Debug-a55e5e0f3eea2f33f6bb.json",
+					"name" : "practice2-console_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/boolt/Desktop/qt_practices/practice2-console/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/boolt/Desktop/qt_practices/practice2-console"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

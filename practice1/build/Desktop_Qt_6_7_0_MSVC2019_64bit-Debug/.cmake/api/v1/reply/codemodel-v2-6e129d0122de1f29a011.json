@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3b42627c00191406fc06.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "practice1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "practice1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice1-Debug-3209cd9c577ef7c00090.json",
+					"name" : "practice1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice1_autogen-Debug-9ae385315bb0cee179b8.json",
+					"name" : "practice1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice1_autogen_timestamp_deps-Debug-02e1f042413be032025d.json",
+					"name" : "practice1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/boolt/Desktop/qt_practices/practice1/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/boolt/Desktop/qt_practices/practice1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

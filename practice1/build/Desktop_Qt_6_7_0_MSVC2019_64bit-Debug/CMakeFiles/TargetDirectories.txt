@@ -1,0 +1,8 @@
+C:/Users/boolt/Desktop/qt_practices/practice1/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/practice1.dir
+C:/Users/boolt/Desktop/qt_practices/practice1/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/boolt/Desktop/qt_practices/practice1/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/boolt/Desktop/qt_practices/practice1/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/boolt/Desktop/qt_practices/practice1/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/Users/boolt/Desktop/qt_practices/practice1/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/boolt/Desktop/qt_practices/practice1/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/practice1_autogen_timestamp_deps.dir
+C:/Users/boolt/Desktop/qt_practices/practice1/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/practice1_autogen.dir

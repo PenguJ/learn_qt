@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5616718db0070fb01b79.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tmp3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tmp3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tmp3-Debug-f837e0ab21436ebdc26a.json",
+					"name" : "tmp3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tmp3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tmp3_autogen-Debug-b543b34be521daa5171c.json",
+					"name" : "tmp3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tmp3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tmp3_autogen_timestamp_deps-Debug-cc4927c3977d1b1a515d.json",
+					"name" : "tmp3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/boolt/Desktop/qt_practices/tmp3/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/boolt/Desktop/qt_practices/tmp3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
